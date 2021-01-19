@@ -8,6 +8,6 @@
 |   zhu2bei3shi4   |   竹北市  |   Zhúběi City    |   竹北市  |   竹北市  |   주 베이  |   ကြုဗေမြို့       |   120.9934  |   24.8347    |   12            |
 | chiangmai        | เชียงใหม่   | Chiang Mai       | 清邁      | 清迈      | 치앙마이   | ချင်းမိုင်       | 98.9853     | 18.7883      | 12              |
 
+`code` must be unique. For Mandarin palcenames, pinyin with tone numbers is used, however this will not work for two places with homophonous names.
 `local` is used for showing native names along with whatever the user's locale is. This can be in any script, even if not supported by the localisation sets.
-
 `default_zoom` is used for setting the map zoom level for varieties that do not have sufficient recordings to set bounds automatically.
